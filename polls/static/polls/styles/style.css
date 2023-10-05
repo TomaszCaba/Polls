@@ -1,0 +1,25 @@
+body{
+    background: #081118;
+    color: #c9e1d2;;
+    font-family: serif;
+    font-size: large;
+}
+a{
+    color: #c9e1d2;
+}
+.btn{
+    background: #5b80b2;
+    color: #c9e1d2;
+    border-radius: 20px;
+    border: none;
+    font-size: large;
+    margin-top: 10px;
+    -webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+}
+.btn:hover{
+    background: #304c6b;
+    cursor: pointer;
+}

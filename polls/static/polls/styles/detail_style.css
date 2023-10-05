@@ -1,0 +1,11 @@
+fieldset{
+    width: fit-content;
+    margin: 0 auto 0 auto;
+}
+.btn {
+    width: 70px;
+    height: 40px;
+}
+#error{
+    color: #ba2121;
+}

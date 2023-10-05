@@ -1,0 +1,15 @@
+.btn{
+    width: 280px;
+    height: 50px;
+}
+a{
+    text-decoration: none
+}
+#responses{
+    text-align: left;
+    width: fit-content;
+    margin: 0 auto 0 auto;
+}
+body{
+    text-align: center;
+}
